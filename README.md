@@ -179,27 +179,27 @@ All output files use `tFileOutputDelimited` with the **overwrite** action. Runni
 
 3. Configure context variables — open the context file at:
    ```
-   contexts/Default.properties
+   WEATHERETL_PIPELINE/context/Default.properties
    ```
    Set the following values:
    ```
    api_key=YOUR_OPENWEATHERMAP_API_KEY
    api_base_url=https://api.openweathermap.org/data/2.5/weather
    cities=Cairo,London,Paris,Tokyo,Dubai,Berlin,Istanbul,Nairobi
-   csv_path=data/cities_lookup.csv
+   csv_path=in/cities_lookup.csv
    raw_a_path=temp/raw_weather_a.csv
    raw_b_path=temp/raw_cities_b.csv
    staging_a_path=temp/staging_a.csv
    staging_b_path=temp/staging_b.csv
-   clean_output_path=output/weather_clean.csv
-   reject_path=output/rejected_rows.csv
-   summary_path=output/daily_summary.csv
+   clean_output_path=out/weather_clean.csv
+   reject_path=out/rejected_rows.csv
+   summary_path=out/daily_summary.csv
    log_path=logs/error_log.csv
    ```
 
 4. Create the required directories if they do not exist:
    ```
-   mkdir -p temp output logs
+   mkdir temp out logs
    ```
 
 5. Run the pipeline — open `Job_00_Master` in Talend Studio and press **Run**. Do not run the child jobs individually; the master job calls Job_01_Extract then Job_02_Transform_and_Load via tRunJob components chained with OnSubjobOk triggers.
@@ -244,26 +244,27 @@ All output files use `tFileOutputDelimited` with the **overwrite** action. Runni
 
 ```
 WeatherETL_Pipeline/
-├── data/
+├── WEATHERETL_PIPELINE/                   # Talend project folder
+│   ├── .settings/                         # Talend project settings
+│   ├── context/                           # Context variables (Default.properties inside — not committed)
+│   ├── metadata/                          # Talend metadata definitions
+│   ├── process/                           # All jobs (Job_00_Master, Job_01_Extract, Job_02_Transform_and_Load)
+│   └── talend.project                     # Talend project descriptor
+├── in/                                    # Input data folder
 │   └── cities_lookup.csv                  # Source B — committed reference file
-├── contexts/
-│   └── Default.properties                 # All config and secrets (not committed — see .gitignore)
-├── process/
-│   ├── Job_01_Extract/                    # Extract folder
-│   └── Job_02_Transform_and_Load/         # Transform + Load folder
-├── Job_00_Master/                         # Master orchestration job
+├── out/                                   # Final outputs (not committed)
+│   ├── weather_clean.csv
+│   ├── rejected_rows.csv
+│   └── daily_summary.csv
 ├── temp/                                  # Intermediate staging files (not committed)
 │   ├── raw_weather_a.csv
 │   ├── raw_cities_b.csv
 │   ├── staging_a.csv
 │   └── staging_b.csv
-├── output/                                # Final outputs (not committed)
-│   ├── weather_clean.csv
-│   ├── rejected_rows.csv
-│   └── daily_summary.csv
-├── logs/
+├── params/                                # Pipeline parameters/config files
+├── logs/                                  # Runtime logs (not committed)
 │   └── error_log.csv
 └── README.md
 ```
 
-> **Note:** `contexts/Default.properties` contains your API key. Add it to `.gitignore` and share credentials separately.
+> **Note:** `WEATHERETL_PIPELINE/context/Default.properties` contains your API key. Add it to `.gitignore` and share credentials separately.
