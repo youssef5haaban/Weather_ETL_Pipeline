@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_cVdmMTNmEfGBK6CzL1gMhQ" name="SRC_RawWeathe" dataPackage="_cVdmMjNmEfGBK6CzL1gMhQ" Server="Localhost 127.0.0.1" FilePath="D:/Talend/WeatherETL_Pipeline/temp/raw_weather_a.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_cVdmMjNmEfGBK6CzL1gMhQ" name="default" dataManager="_cVdmMTNmEfGBK6CzL1gMhQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_cVdmMzNmEfGBK6CzL1gMhQ" id="_w_4cQDNlEfGBK6CzL1gMhQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cVdmNDNmEfGBK6CzL1gMhQ" label="city_name" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cVdmNTNmEfGBK6CzL1gMhQ" label="dt" length="20" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cVdmNjNmEfGBK6CzL1gMhQ" label="temp" length="8" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cVdmNzNmEfGBK6CzL1gMhQ" label="feels_like" length="8" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cVdmODNmEfGBK6CzL1gMhQ" label="humidity" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cVdmOTNmEfGBK6CzL1gMhQ" label="pressure" length="8" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cVdmOjNmEfGBK6CzL1gMhQ" label="speed" length="8" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cVdmOzNmEfGBK6CzL1gMhQ" label="description" length="100" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cVdmPDNmEfGBK6CzL1gMhQ" label="all" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

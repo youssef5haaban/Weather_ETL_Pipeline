@@ -1,0 +1,9 @@
+city_code,city_name,country,region,population_tier,utc_offset_hours
+CAI,Cairo,Egypt,Africa,Large,2
+LON,London,United Kingdom,Europe,Large,0
+PAR,Paris,France,Europe,Large,1
+NYC,New York,United States,Americas,Large,-5
+TYO,Tokyo,Japan,Asia,Large,9
+DXB,Dubai,United Arab Emirates,Middle East,Medium,4
+LAG,Lagos,Nigeria,Africa,Large,1
+BER,Berlin,Germany,Europe,Large,1

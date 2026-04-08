@@ -1,0 +1,321 @@
+city_name,city_code,forecast_dt,temp_celsius,feels_like_celsius,humidity_pct,pressure_hpa,wind_speed_ms,weather_description,cloud_cover_pct,country,region,population_tier,utc_offset_hours,feels_like_delta,humidity_category,heat_index,data_quality_flag,is_rejected
+Berlin,BER,09-04-2026,5.21,2.53,67,1028.0,3.33,clear sky,6,Germany,Europe,Large,1,2.68,Normal,COLD,,false
+Berlin,BER,09-04-2026,0.6,-2.71,66,1028.0,2.92,broken clouds,59,Germany,Europe,Large,1,3.31,Normal,COLD,,false
+Berlin,BER,09-04-2026,0.74,-2.47,64,1028.0,2.84,broken clouds,79,Germany,Europe,Large,1,3.21,Normal,COLD,,false
+Berlin,BER,09-04-2026,9.28,7.66,35,1027.0,2.98,overcast clouds,99,Germany,Europe,Large,1,1.6199999,Normal,COLD,,false
+Berlin,BER,09-04-2026,11.38,9.2,24,1025.0,3.2,broken clouds,60,Germany,Europe,Large,1,2.1800003,Normal,COLD,,false
+Berlin,BER,09-04-2026,11.41,9.29,26,1023.0,3.17,clear sky,4,Germany,Europe,Large,1,2.12,Normal,COLD,,false
+Berlin,BER,09-04-2026,8.74,6.84,35,1022.0,3.26,clear sky,3,Germany,Europe,Large,1,1.8999996,Normal,COLD,,false
+Berlin,BER,09-04-2026,6.13,4.1,42,1022.0,2.67,clear sky,1,Germany,Europe,Large,1,2.0300002,Normal,COLD,,false
+Berlin,BER,10-04-2026,4.15,0.56,48,1020.0,4.44,scattered clouds,29,Germany,Europe,Large,1,3.5900002,Normal,COLD,,false
+Berlin,BER,10-04-2026,3.52,0.03,50,1019.0,4.01,overcast clouds,100,Germany,Europe,Large,1,3.49,Normal,COLD,,false
+Berlin,BER,10-04-2026,3.86,0.0,51,1017.0,4.82,overcast clouds,100,Germany,Europe,Large,1,3.86,Normal,COLD,,false
+Berlin,BER,10-04-2026,3.96,0.73,70,1018.0,3.76,light snow,100,Germany,Europe,Large,1,3.23,Normal,COLD,,false
+Berlin,BER,10-04-2026,6.47,5.39,72,1018.0,1.7,light rain,100,Germany,Europe,Large,1,1.0799999,High,COLD,,false
+Berlin,BER,10-04-2026,4.55,2.16,93,1019.0,2.75,light rain,100,Germany,Europe,Large,1,2.39,High,COLD,,false
+Berlin,BER,10-04-2026,4.63,3.69,85,1020.0,1.38,broken clouds,74,Germany,Europe,Large,1,0.94000006,High,COLD,,false
+Berlin,BER,10-04-2026,3.47,2.11,90,1021.0,1.57,clear sky,3,Germany,Europe,Large,1,1.3600001,High,COLD,,false
+Berlin,BER,11-04-2026,3.05,1.67,89,1021.0,1.54,scattered clouds,27,Germany,Europe,Large,1,1.38,High,COLD,,false
+Berlin,BER,11-04-2026,2.46,1.15,89,1020.0,1.43,broken clouds,52,Germany,Europe,Large,1,1.3100001,High,COLD,,false
+Berlin,BER,11-04-2026,3.79,3.79,80,1021.0,1.27,scattered clouds,28,Germany,Europe,Large,1,0.0,High,COLD,,false
+Berlin,BER,11-04-2026,9.0,8.33,54,1020.0,1.67,clear sky,5,Germany,Europe,Large,1,0.6700001,Normal,COLD,,false
+Berlin,BER,11-04-2026,12.71,10.87,32,1018.0,2.93,clear sky,9,Germany,Europe,Large,1,1.8400002,Normal,COLD,,false
+Berlin,BER,11-04-2026,13.89,12.12,30,1016.0,3.07,clear sky,9,Germany,Europe,Large,1,1.7700005,Normal,COLD,,false
+Berlin,BER,11-04-2026,10.88,9.15,43,1016.0,3.2,scattered clouds,28,Germany,Europe,Large,1,1.7300005,Normal,COLD,,false
+Berlin,BER,11-04-2026,8.28,5.79,51,1015.0,4.21,few clouds,24,Germany,Europe,Large,1,2.4899998,Normal,COLD,,false
+Berlin,BER,12-04-2026,6.97,3.76,57,1014.0,5.1,scattered clouds,34,Germany,Europe,Large,1,3.2099998,Normal,COLD,,false
+Berlin,BER,12-04-2026,5.96,3.17,61,1013.0,3.77,scattered clouds,49,Germany,Europe,Large,1,2.79,Normal,COLD,,false
+Berlin,BER,12-04-2026,6.7,4.31,62,1013.0,3.37,broken clouds,74,Germany,Europe,Large,1,2.3899999,Normal,COLD,,false
+Berlin,BER,12-04-2026,6.3,5.44,81,1014.0,1.49,light rain,100,Germany,Europe,Large,1,0.86000013,High,COLD,,false
+Berlin,BER,12-04-2026,6.24,5.32,87,1014.0,1.53,light rain,100,Germany,Europe,Large,1,0.9199996,High,COLD,,false
+Berlin,BER,12-04-2026,6.53,4.68,91,1015.0,2.54,overcast clouds,100,Germany,Europe,Large,1,1.8500004,High,COLD,,false
+Berlin,BER,12-04-2026,6.3,6.3,92,1016.0,1.3,light rain,100,Germany,Europe,Large,1,0.0,High,COLD,,false
+Berlin,BER,12-04-2026,6.26,6.26,91,1016.0,1.08,overcast clouds,100,Germany,Europe,Large,1,0.0,High,COLD,,false
+Berlin,BER,13-04-2026,6.09,5.09,92,1016.0,1.58,overcast clouds,100,Germany,Europe,Large,1,1.0,High,COLD,,false
+Berlin,BER,13-04-2026,5.71,5.71,92,1016.0,1.2,overcast clouds,100,Germany,Europe,Large,1,0.0,High,COLD,,false
+Berlin,BER,13-04-2026,6.39,6.39,85,1016.0,1.15,overcast clouds,100,Germany,Europe,Large,1,0.0,High,COLD,,false
+Berlin,BER,13-04-2026,8.24,7.46,73,1016.0,1.67,overcast clouds,100,Germany,Europe,Large,1,0.77999973,High,COLD,,false
+Berlin,BER,13-04-2026,9.91,8.58,61,1016.0,2.71,overcast clouds,100,Germany,Europe,Large,1,1.3299999,Normal,COLD,,false
+Berlin,BER,13-04-2026,8.74,6.96,74,1016.0,3.06,overcast clouds,100,Germany,Europe,Large,1,1.7799997,High,COLD,,false
+Berlin,BER,13-04-2026,7.5,6.79,91,1016.0,1.51,light rain,100,Germany,Europe,Large,1,0.71000004,High,COLD,,false
+Berlin,BER,13-04-2026,7.25,6.01,93,1017.0,1.98,light rain,100,Germany,Europe,Large,1,1.2399998,High,COLD,,false
+Cairo,CAI,09-04-2026,18.46,17.54,45,1019.0,2.08,clear sky,0,Egypt,Africa,Large,2,0.91999817,Normal,MILD,,false
+Cairo,CAI,09-04-2026,16.79,15.8,49,1018.0,2.26,clear sky,0,Egypt,Africa,Large,2,0.9900007,Normal,MILD,,false
+Cairo,CAI,09-04-2026,17.79,16.56,36,1018.0,3.44,clear sky,0,Egypt,Africa,Large,2,1.2300014,Normal,MILD,,false
+Cairo,CAI,09-04-2026,23.18,22.05,19,1017.0,4.95,clear sky,0,Egypt,Africa,Large,2,1.1300011,Normal,MILD,,false
+Cairo,CAI,09-04-2026,26.08,26.08,14,1015.0,5.68,clear sky,2,Egypt,Africa,Large,2,0.0,Normal,HOT,,false
+Cairo,CAI,09-04-2026,25.91,24.95,15,1015.0,6.82,broken clouds,56,Egypt,Africa,Large,2,0.9599991,Normal,HOT,,false
+Cairo,CAI,09-04-2026,22.28,21.29,28,1016.0,5.68,broken clouds,78,Egypt,Africa,Large,2,0.9899998,Normal,MILD,,false
+Cairo,CAI,09-04-2026,19.32,18.25,36,1017.0,3.63,overcast clouds,98,Egypt,Africa,Large,2,1.0699997,Normal,MILD,,false
+Cairo,CAI,10-04-2026,17.85,16.81,43,1016.0,1.51,broken clouds,63,Egypt,Africa,Large,2,1.0400009,Normal,MILD,,false
+Cairo,CAI,10-04-2026,17.02,15.95,45,1016.0,2.18,clear sky,8,Egypt,Africa,Large,2,1.0700006,Normal,MILD,,false
+Cairo,CAI,10-04-2026,18.98,17.93,38,1017.0,3.21,clear sky,6,Egypt,Africa,Large,2,1.0499992,Normal,MILD,,false
+Cairo,CAI,10-04-2026,23.99,23.05,23,1017.0,4.72,clear sky,0,Egypt,Africa,Large,2,0.94000053,Normal,MILD,,false
+Cairo,CAI,10-04-2026,26.42,26.42,18,1015.0,5.98,clear sky,0,Egypt,Africa,Large,2,0.0,Normal,HOT,,false
+Cairo,CAI,10-04-2026,26.01,26.01,20,1015.0,6.09,clear sky,0,Egypt,Africa,Large,2,0.0,Normal,HOT,,false
+Cairo,CAI,10-04-2026,21.7,20.92,38,1017.0,7.04,clear sky,0,Egypt,Africa,Large,2,0.7800007,Normal,MILD,,false
+Cairo,CAI,10-04-2026,18.15,17.51,57,1018.0,4.16,clear sky,0,Egypt,Africa,Large,2,0.6399994,Normal,MILD,,false
+Cairo,CAI,11-04-2026,16.61,16.0,64,1017.0,2.82,clear sky,0,Egypt,Africa,Large,2,0.6100006,Normal,MILD,,false
+Cairo,CAI,11-04-2026,15.41,14.91,73,1017.0,2.79,clear sky,0,Egypt,Africa,Large,2,0.5,High,MILD,,false
+Cairo,CAI,11-04-2026,16.99,16.49,67,1018.0,1.91,clear sky,0,Egypt,Africa,Large,2,0.5,Normal,MILD,,false
+Cairo,CAI,11-04-2026,21.88,21.22,42,1018.0,2.63,clear sky,0,Egypt,Africa,Large,2,0.65999985,Normal,MILD,,false
+Cairo,CAI,11-04-2026,26.0,26.0,27,1016.0,5.23,clear sky,0,Egypt,Africa,Large,2,0.0,Normal,HOT,,false
+Cairo,CAI,11-04-2026,26.4,26.4,25,1015.0,5.66,few clouds,22,Egypt,Africa,Large,2,0.0,Normal,HOT,,false
+Cairo,CAI,11-04-2026,21.02,20.25,41,1018.0,6.63,few clouds,24,Egypt,Africa,Large,2,0.77000046,Normal,MILD,,false
+Cairo,CAI,11-04-2026,18.02,17.24,52,1018.0,4.58,clear sky,2,Egypt,Africa,Large,2,0.7800007,Normal,MILD,,false
+Cairo,CAI,12-04-2026,16.63,15.86,58,1017.0,3.59,clear sky,1,Egypt,Africa,Large,2,0.7699995,Normal,MILD,,false
+Cairo,CAI,12-04-2026,15.75,15.0,62,1017.0,2.84,clear sky,0,Egypt,Africa,Large,2,0.75,Normal,MILD,,false
+Cairo,CAI,12-04-2026,17.58,16.78,53,1018.0,1.9,clear sky,0,Egypt,Africa,Large,2,0.79999924,Normal,MILD,,false
+Cairo,CAI,12-04-2026,22.22,21.39,34,1018.0,2.7,clear sky,0,Egypt,Africa,Large,2,0.8299999,Normal,MILD,,false
+Cairo,CAI,12-04-2026,26.47,26.47,19,1015.0,2.78,clear sky,0,Egypt,Africa,Large,2,0.0,Normal,HOT,,false
+Cairo,CAI,12-04-2026,26.98,26.05,19,1015.0,5.8,clear sky,0,Egypt,Africa,Large,2,0.9300003,Normal,HOT,,false
+Cairo,CAI,12-04-2026,21.29,20.52,40,1018.0,7.54,clear sky,1,Egypt,Africa,Large,2,0.77000046,Normal,MILD,,false
+Cairo,CAI,12-04-2026,18.11,17.41,55,1019.0,5.53,clear sky,6,Egypt,Africa,Large,2,0.70000076,Normal,MILD,,false
+Cairo,CAI,13-04-2026,16.67,15.99,61,1018.0,4.18,clear sky,4,Egypt,Africa,Large,2,0.6800003,Normal,MILD,,false
+Cairo,CAI,13-04-2026,15.87,15.26,67,1018.0,4.2,clear sky,1,Egypt,Africa,Large,2,0.60999966,Normal,MILD,,false
+Cairo,CAI,13-04-2026,18.59,17.84,51,1019.0,4.35,clear sky,1,Egypt,Africa,Large,2,0.75,Normal,MILD,,false
+Cairo,CAI,13-04-2026,23.78,23.0,30,1018.0,4.83,clear sky,0,Egypt,Africa,Large,2,0.7800007,Normal,MILD,,false
+Cairo,CAI,13-04-2026,26.99,26.14,22,1016.0,4.67,clear sky,1,Egypt,Africa,Large,2,0.8500004,Normal,HOT,,false
+Cairo,CAI,13-04-2026,27.22,26.23,20,1015.0,5.49,few clouds,13,Egypt,Africa,Large,2,0.9899998,Normal,HOT,,false
+Cairo,CAI,13-04-2026,22.76,21.9,31,1016.0,8.25,scattered clouds,31,Egypt,Africa,Large,2,0.8600006,Normal,MILD,,false
+Cairo,CAI,13-04-2026,19.17,18.29,44,1017.0,6.35,broken clouds,71,Egypt,Africa,Large,2,0.87999916,Normal,MILD,,false
+Dubai,DUB,09-04-2026,22.81,22.92,68,1011.0,1.77,clear sky,5,,,,,-0.11000061,Normal,MILD,,false
+Dubai,DUB,09-04-2026,23.11,23.15,64,1012.0,2.96,few clouds,12,,,,,-0.03999901,Normal,MILD,,false
+Dubai,DUB,09-04-2026,24.96,25.08,60,1013.0,3.94,broken clouds,57,,,,,-0.12000084,Normal,MILD,,false
+Dubai,DUB,09-04-2026,25.42,25.48,56,1012.0,4.38,overcast clouds,100,,,,,-0.059999466,Normal,HOT,,false
+Dubai,DUB,09-04-2026,26.51,26.51,48,1012.0,3.64,overcast clouds,91,,,,,0.0,Normal,HOT,,false
+Dubai,DUB,09-04-2026,24.53,24.58,59,1012.0,1.95,light rain,54,,,,,-0.049999237,Normal,MILD,,false
+Dubai,DUB,09-04-2026,24.1,24.24,64,1014.0,3.61,broken clouds,71,,,,,-0.13999939,Normal,MILD,,false
+Dubai,DUB,09-04-2026,23.0,23.11,67,1013.0,2.87,light rain,74,,,,,-0.11000061,Normal,MILD,,false
+Dubai,DUB,10-04-2026,23.71,23.7,60,1011.0,3.56,scattered clouds,41,,,,,0.0099983215,Normal,MILD,,false
+Dubai,DUB,10-04-2026,24.19,24.28,62,1014.0,0.63,broken clouds,79,,,,,-0.09000015,Normal,MILD,,false
+Dubai,DUB,10-04-2026,26.19,26.19,54,1016.0,0.99,broken clouds,62,,,,,0.0,Normal,HOT,,false
+Dubai,DUB,10-04-2026,26.75,27.19,50,1015.0,2.99,broken clouds,69,,,,,-0.44000053,Normal,HOT,,false
+Dubai,DUB,10-04-2026,26.31,26.31,57,1013.0,4.25,scattered clouds,35,,,,,0.0,Normal,HOT,,false
+Dubai,DUB,10-04-2026,25.87,26.03,58,1014.0,3.76,scattered clouds,36,,,,,-0.15999985,Normal,HOT,,false
+Dubai,DUB,10-04-2026,25.66,25.77,57,1015.0,2.37,broken clouds,56,,,,,-0.11000061,Normal,HOT,,false
+Dubai,DUB,10-04-2026,25.26,25.36,58,1014.0,2.61,overcast clouds,88,,,,,-0.10000038,Normal,HOT,,false
+Dubai,DUB,11-04-2026,24.84,24.95,60,1013.0,2.69,overcast clouds,93,,,,,-0.11000061,Normal,MILD,,false
+Dubai,DUB,11-04-2026,24.78,24.91,61,1015.0,1.37,light rain,100,,,,,-0.12999916,Normal,MILD,,false
+Dubai,DUB,11-04-2026,24.4,24.57,64,1017.0,2.47,light rain,99,,,,,-0.17000008,Normal,MILD,,false
+Dubai,DUB,11-04-2026,25.76,25.96,60,1016.0,3.83,light rain,100,,,,,-0.19999886,Normal,HOT,,false
+Dubai,DUB,11-04-2026,28.94,29.46,49,1013.0,2.7,overcast clouds,98,,,,,-0.51999855,Normal,HOT,,false
+Dubai,DUB,11-04-2026,27.53,28.34,55,1013.0,1.99,overcast clouds,100,,,,,-0.80999947,Normal,HOT,,false
+Dubai,DUB,11-04-2026,27.63,28.21,52,1013.0,3.94,overcast clouds,100,,,,,-0.5799999,Normal,HOT,,false
+Dubai,DUB,11-04-2026,26.51,26.51,58,1011.0,3.98,overcast clouds,100,,,,,0.0,Normal,HOT,,false
+Dubai,DUB,12-04-2026,25.22,25.55,67,1011.0,2.89,overcast clouds,98,,,,,-0.32999992,Normal,HOT,,false
+Dubai,DUB,12-04-2026,23.68,24.19,80,1014.0,11.23,overcast clouds,100,,,,,-0.5100002,High,MILD,,false
+Dubai,DUB,12-04-2026,24.04,24.46,75,1017.0,9.26,overcast clouds,100,,,,,-0.41999817,High,MILD,,false
+Dubai,DUB,12-04-2026,24.36,24.73,72,1015.0,6.77,overcast clouds,100,,,,,-0.36999893,High,MILD,,false
+Dubai,DUB,12-04-2026,24.87,25.16,67,1012.0,7.18,overcast clouds,100,,,,,-0.289999,Normal,MILD,,false
+Dubai,DUB,12-04-2026,26.18,26.18,60,1014.0,1.49,light rain,100,,,,,0.0,Normal,HOT,,false
+Dubai,DUB,12-04-2026,25.77,26.07,64,1013.0,0.79,overcast clouds,100,,,,,-0.29999924,Normal,HOT,,false
+Dubai,DUB,12-04-2026,25.27,25.58,66,1012.0,2.91,overcast clouds,100,,,,,-0.30999947,Normal,HOT,,false
+Dubai,DUB,13-04-2026,24.14,24.62,77,1012.0,2.25,overcast clouds,100,,,,,-0.48000145,High,MILD,,false
+Dubai,DUB,13-04-2026,24.47,24.9,74,1013.0,1.27,overcast clouds,100,,,,,-0.4300003,High,MILD,,false
+Dubai,DUB,13-04-2026,25.97,25.97,64,1014.0,1.65,overcast clouds,100,,,,,0.0,Normal,HOT,,false
+Dubai,DUB,13-04-2026,26.5,26.5,61,1013.0,3.48,overcast clouds,100,,,,,0.0,Normal,HOT,,false
+Dubai,DUB,13-04-2026,25.97,25.97,66,1012.0,4.08,overcast clouds,100,,,,,0.0,Normal,HOT,,false
+Dubai,DUB,13-04-2026,25.1,25.55,72,1013.0,4.37,overcast clouds,100,,,,,-0.44999886,High,HOT,,false
+Dubai,DUB,13-04-2026,24.64,25.09,74,1013.0,3.3,overcast clouds,100,,,,,-0.45000076,High,MILD,,false
+Dubai,DUB,13-04-2026,24.15,24.63,77,1013.0,3.36,broken clouds,73,,,,,-0.47999954,High,MILD,,false
+Lagos,LAG,09-04-2026,26.77,29.4,82,1012.0,2.79,overcast clouds,100,Nigeria,Africa,Large,1,-2.6299992,High,HOT,,false
+Lagos,LAG,09-04-2026,26.49,26.49,84,1010.0,1.93,overcast clouds,100,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,09-04-2026,26.2,26.2,85,1011.0,1.43,overcast clouds,100,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,09-04-2026,31.28,35.71,61,1012.0,2.58,overcast clouds,100,Nigeria,Africa,Large,1,-4.4299984,Normal,HOT,,false
+Lagos,LAG,09-04-2026,32.62,37.58,57,1010.0,3.87,light rain,100,Nigeria,Africa,Large,1,-4.960003,Normal,HOT,,false
+Lagos,LAG,09-04-2026,32.12,37.05,59,1008.0,3.29,light rain,89,Nigeria,Africa,Large,1,-4.9300003,Normal,HOT,,false
+Lagos,LAG,09-04-2026,27.98,31.75,78,1009.0,3.08,light rain,93,Nigeria,Africa,Large,1,-3.7700005,High,HOT,,false
+Lagos,LAG,09-04-2026,26.26,26.26,90,1011.0,1.69,light rain,75,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,10-04-2026,26.27,26.27,90,1011.0,1.36,light rain,86,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,10-04-2026,26.15,26.15,89,1009.0,1.65,light rain,100,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,10-04-2026,26.3,26.3,88,1011.0,1.4,overcast clouds,100,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,10-04-2026,29.35,33.71,71,1013.0,2.66,light rain,100,Nigeria,Africa,Large,1,-4.3599987,High,HOT,,false
+Lagos,LAG,10-04-2026,32.49,36.68,55,1011.0,3.45,light rain,100,Nigeria,Africa,Large,1,-4.1899986,Normal,HOT,,false
+Lagos,LAG,10-04-2026,31.46,35.31,58,1009.0,4.46,overcast clouds,100,Nigeria,Africa,Large,1,-3.8500023,Normal,HOT,,false
+Lagos,LAG,10-04-2026,27.22,29.72,75,1010.0,2.35,overcast clouds,98,Nigeria,Africa,Large,1,-2.5,High,HOT,,false
+Lagos,LAG,10-04-2026,26.42,26.42,80,1012.0,1.85,overcast clouds,99,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,11-04-2026,26.44,26.44,80,1011.0,1.92,overcast clouds,99,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,11-04-2026,25.68,26.52,85,1010.0,1.42,overcast clouds,100,Nigeria,Africa,Large,1,-0.84000015,High,HOT,,false
+Lagos,LAG,11-04-2026,25.76,26.64,86,1011.0,1.09,overcast clouds,100,Nigeria,Africa,Large,1,-0.87999916,High,HOT,,false
+Lagos,LAG,11-04-2026,31.71,35.84,58,1012.0,1.61,overcast clouds,100,Nigeria,Africa,Large,1,-4.130001,Normal,HOT,,false
+Lagos,LAG,11-04-2026,34.7,39.24,48,1011.0,3.52,overcast clouds,91,Nigeria,Africa,Large,1,-4.540001,Normal,HOT,,false
+Lagos,LAG,11-04-2026,32.69,36.82,54,1008.0,4.61,broken clouds,54,Nigeria,Africa,Large,1,-4.130001,Normal,HOT,,false
+Lagos,LAG,11-04-2026,27.96,31.13,74,1009.0,3.14,broken clouds,52,Nigeria,Africa,Large,1,-3.17,High,HOT,,false
+Lagos,LAG,11-04-2026,27.22,30.56,83,1011.0,2.07,scattered clouds,32,Nigeria,Africa,Large,1,-3.3400002,High,HOT,,false
+Lagos,LAG,12-04-2026,26.86,29.78,84,1009.0,2.49,scattered clouds,34,Nigeria,Africa,Large,1,-2.92,High,HOT,,false
+Lagos,LAG,12-04-2026,26.32,26.32,86,1008.0,1.66,few clouds,24,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,12-04-2026,26.17,26.17,86,1009.0,1.17,scattered clouds,38,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,12-04-2026,32.13,37.07,59,1011.0,2.27,broken clouds,57,Nigeria,Africa,Large,1,-4.9399986,Normal,HOT,,false
+Lagos,LAG,12-04-2026,34.21,39.21,51,1009.0,4.11,broken clouds,57,Nigeria,Africa,Large,1,-5.0,Normal,HOT,,false
+Lagos,LAG,12-04-2026,32.29,37.14,58,1007.0,4.71,scattered clouds,26,Nigeria,Africa,Large,1,-4.8499985,Normal,HOT,,false
+Lagos,LAG,12-04-2026,28.16,32.18,78,1008.0,3.41,few clouds,20,Nigeria,Africa,Large,1,-4.0200005,High,HOT,,false
+Lagos,LAG,12-04-2026,27.64,31.48,82,1009.0,3.05,clear sky,5,Nigeria,Africa,Large,1,-3.8400002,High,HOT,,false
+Lagos,LAG,13-04-2026,27.3,30.88,84,1008.0,3.09,clear sky,3,Nigeria,Africa,Large,1,-3.58,High,HOT,,false
+Lagos,LAG,13-04-2026,26.95,30.0,84,1007.0,3.05,few clouds,21,Nigeria,Africa,Large,1,-3.0499992,High,HOT,,false
+Lagos,LAG,13-04-2026,26.59,26.59,86,1008.0,2.19,light rain,34,Nigeria,Africa,Large,1,0.0,High,HOT,,false
+Lagos,LAG,13-04-2026,31.67,36.6,61,1010.0,3.59,light rain,20,Nigeria,Africa,Large,1,-4.9299984,Normal,HOT,,false
+Lagos,LAG,13-04-2026,32.29,37.14,58,1009.0,4.04,light rain,51,Nigeria,Africa,Large,1,-4.8499985,Normal,HOT,,false
+Lagos,LAG,13-04-2026,32.1,36.41,57,1007.0,4.24,scattered clouds,47,Nigeria,Africa,Large,1,-4.3100014,Normal,HOT,,false
+Lagos,LAG,13-04-2026,27.51,30.78,79,1008.0,3.0,light rain,54,Nigeria,Africa,Large,1,-3.2700005,High,HOT,,false
+Lagos,LAG,13-04-2026,27.15,30.5,84,1009.0,3.47,overcast clouds,100,Nigeria,Africa,Large,1,-3.3500004,High,HOT,,false
+London,LON,09-04-2026,15.68,15.26,75,1021.0,2.01,light rain,57,United Kingdom,Europe,Large,0,0.42000008,High,MILD,,false
+London,LON,09-04-2026,12.57,12.05,83,1020.0,2.22,scattered clouds,43,United Kingdom,Europe,Large,0,0.5199995,High,COLD,,false
+London,LON,09-04-2026,9.4,8.18,85,1019.0,2.41,scattered clouds,42,United Kingdom,Europe,Large,0,1.2199993,High,COLD,,false
+London,LON,09-04-2026,15.15,14.5,68,1019.0,2.75,overcast clouds,100,United Kingdom,Europe,Large,0,0.6499996,Normal,MILD,,false
+London,LON,09-04-2026,21.67,21.25,52,1018.0,5.03,overcast clouds,100,United Kingdom,Europe,Large,0,0.42000008,Normal,MILD,,false
+London,LON,09-04-2026,16.38,15.64,60,1018.0,6.41,overcast clouds,100,United Kingdom,Europe,Large,0,0.7399988,Normal,MILD,,false
+London,LON,09-04-2026,11.74,10.61,63,1019.0,5.76,overcast clouds,100,United Kingdom,Europe,Large,0,1.1300001,Normal,COLD,,false
+London,LON,09-04-2026,9.16,6.77,63,1022.0,4.44,overcast clouds,100,United Kingdom,Europe,Large,0,2.3899999,Normal,COLD,,false
+London,LON,10-04-2026,7.41,4.18,59,1023.0,5.42,overcast clouds,100,United Kingdom,Europe,Large,0,3.23,Normal,COLD,,false
+London,LON,10-04-2026,6.71,4.07,62,1022.0,3.8,overcast clouds,100,United Kingdom,Europe,Large,0,2.6399999,Normal,COLD,,false
+London,LON,10-04-2026,5.95,4.42,67,1023.0,2.06,overcast clouds,100,United Kingdom,Europe,Large,0,1.5299997,Normal,COLD,,false
+London,LON,10-04-2026,8.41,8.41,56,1023.0,0.73,overcast clouds,100,United Kingdom,Europe,Large,0,0.0,Normal,COLD,,false
+London,LON,10-04-2026,11.71,10.01,41,1021.0,2.97,overcast clouds,93,United Kingdom,Europe,Large,0,1.6999998,Normal,COLD,,false
+London,LON,10-04-2026,11.77,10.07,41,1018.0,4.09,overcast clouds,99,United Kingdom,Europe,Large,0,1.7000008,Normal,COLD,,false
+London,LON,10-04-2026,9.36,7.1,53,1016.0,4.26,overcast clouds,99,United Kingdom,Europe,Large,0,2.2599998,Normal,COLD,,false
+London,LON,10-04-2026,8.27,6.22,65,1014.0,3.36,overcast clouds,100,United Kingdom,Europe,Large,0,2.0500007,Normal,COLD,,false
+London,LON,11-04-2026,8.83,5.98,69,1010.0,5.39,overcast clouds,100,United Kingdom,Europe,Large,0,2.85,Normal,COLD,,false
+London,LON,11-04-2026,9.76,7.16,69,1006.0,5.36,overcast clouds,100,United Kingdom,Europe,Large,0,2.6000004,Normal,COLD,,false
+London,LON,11-04-2026,10.63,9.73,76,1003.0,5.06,overcast clouds,100,United Kingdom,Europe,Large,0,0.9000006,High,COLD,,false
+London,LON,11-04-2026,12.0,11.29,78,1002.0,6.32,overcast clouds,100,United Kingdom,Europe,Large,0,0.71000004,High,COLD,,false
+London,LON,11-04-2026,10.21,9.11,70,1004.0,6.75,overcast clouds,100,United Kingdom,Europe,Large,0,1.1000004,Normal,COLD,,false
+London,LON,11-04-2026,10.78,9.04,43,1007.0,6.87,light rain,92,United Kingdom,Europe,Large,0,1.7399998,Normal,COLD,,false
+London,LON,11-04-2026,9.68,6.78,46,1009.0,6.17,broken clouds,82,United Kingdom,Europe,Large,0,2.9,Normal,COLD,,false
+London,LON,11-04-2026,7.59,4.13,69,1009.0,6.14,few clouds,11,United Kingdom,Europe,Large,0,3.46,Normal,COLD,,false
+London,LON,12-04-2026,7.53,4.02,74,1009.0,6.23,few clouds,17,United Kingdom,Europe,Large,0,3.5100002,High,COLD,,false
+London,LON,12-04-2026,7.48,3.88,77,1008.0,6.45,broken clouds,58,United Kingdom,Europe,Large,0,3.6,High,COLD,,false
+London,LON,12-04-2026,7.28,3.69,75,1008.0,6.27,scattered clouds,44,United Kingdom,Europe,Large,0,3.5900002,High,COLD,,false
+London,LON,12-04-2026,10.74,9.54,64,1008.0,7.21,light rain,35,United Kingdom,Europe,Large,0,1.1999998,Normal,COLD,,false
+London,LON,12-04-2026,13.85,12.28,38,1008.0,7.08,light rain,22,United Kingdom,Europe,Large,0,1.5700006,Normal,COLD,,false
+London,LON,12-04-2026,13.01,11.7,51,1008.0,6.66,light rain,41,United Kingdom,Europe,Large,0,1.3100004,Normal,COLD,,false
+London,LON,12-04-2026,10.7,9.6,68,1010.0,4.51,light rain,44,United Kingdom,Europe,Large,0,1.0999994,Normal,COLD,,false
+London,LON,12-04-2026,8.3,5.72,77,1012.0,4.4,light rain,7,United Kingdom,Europe,Large,0,2.5800004,High,COLD,,false
+London,LON,13-04-2026,6.61,4.36,84,1012.0,3.12,clear sky,6,United Kingdom,Europe,Large,0,2.25,High,COLD,,false
+London,LON,13-04-2026,5.5,3.74,85,1013.0,2.22,clear sky,8,United Kingdom,Europe,Large,0,1.76,High,COLD,,false
+London,LON,13-04-2026,5.14,3.75,81,1014.0,1.8,few clouds,22,United Kingdom,Europe,Large,0,1.3899999,High,COLD,,false
+London,LON,13-04-2026,9.56,8.65,57,1015.0,2.04,broken clouds,72,United Kingdom,Europe,Large,0,0.9100008,Normal,COLD,,false
+London,LON,13-04-2026,12.83,11.34,45,1014.0,3.23,light rain,41,United Kingdom,Europe,Large,0,1.4899998,Normal,COLD,,false
+London,LON,13-04-2026,12.51,10.97,44,1014.0,4.56,light rain,99,United Kingdom,Europe,Large,0,1.54,Normal,COLD,,false
+London,LON,13-04-2026,10.53,9.36,66,1015.0,4.17,light rain,99,United Kingdom,Europe,Large,0,1.1700001,Normal,COLD,,false
+London,LON,13-04-2026,8.71,7.18,78,1016.0,2.67,light rain,100,United Kingdom,Europe,Large,0,1.5300002,High,COLD,,false
+New York,NYC,09-04-2026,6.66,3.64,45,1035.0,4.5,clear sky,0,United States,Americas,Large,-5,3.0199997,Normal,COLD,,false
+New York,NYC,09-04-2026,5.71,2.88,54,1036.0,3.74,clear sky,0,United States,Americas,Large,-5,2.83,Normal,COLD,,false
+New York,NYC,09-04-2026,4.58,2.14,62,1037.0,2.82,clear sky,0,United States,Americas,Large,-5,2.4399998,Normal,COLD,,false
+New York,NYC,09-04-2026,4.23,2.5,68,1037.0,1.97,clear sky,3,United States,Americas,Large,-5,1.73,Normal,COLD,,false
+New York,NYC,09-04-2026,5.07,2.51,67,1037.0,3.11,clear sky,6,United States,Americas,Large,-5,2.5600002,Normal,COLD,,false
+New York,NYC,09-04-2026,7.5,4.98,56,1037.0,3.9,few clouds,11,United States,Americas,Large,-5,2.52,Normal,COLD,,false
+New York,NYC,09-04-2026,9.05,6.29,55,1036.0,5.3,clear sky,10,United States,Americas,Large,-5,2.7600002,Normal,COLD,,false
+New York,NYC,09-04-2026,8.76,5.53,60,1034.0,6.4,few clouds,22,United States,Americas,Large,-5,3.23,Normal,COLD,,false
+New York,NYC,10-04-2026,7.46,4.06,71,1033.0,5.89,scattered clouds,49,United States,Americas,Large,-5,3.4,High,COLD,,false
+New York,NYC,10-04-2026,7.31,4.43,74,1032.0,4.54,scattered clouds,43,United States,Americas,Large,-5,2.88,High,COLD,,false
+New York,NYC,10-04-2026,6.88,4.72,75,1031.0,3.07,few clouds,24,United States,Americas,Large,-5,2.1600003,High,COLD,,false
+New York,NYC,10-04-2026,6.32,4.11,79,1030.0,2.97,clear sky,2,United States,Americas,Large,-5,2.21,High,COLD,,false
+New York,NYC,10-04-2026,7.28,4.89,75,1030.0,3.57,clear sky,2,United States,Americas,Large,-5,2.3900003,High,COLD,,false
+New York,NYC,10-04-2026,11.93,10.61,55,1029.0,3.43,clear sky,6,United States,Americas,Large,-5,1.3200006,Normal,COLD,,false
+New York,NYC,10-04-2026,15.34,14.21,49,1026.0,5.25,few clouds,23,United States,Americas,Large,-5,1.1300001,Normal,MILD,,false
+New York,NYC,10-04-2026,15.24,14.2,53,1023.0,4.58,scattered clouds,42,United States,Americas,Large,-5,1.04,Normal,MILD,,false
+New York,NYC,11-04-2026,15.65,14.71,55,1022.0,3.42,broken clouds,71,United States,Americas,Large,-5,0.9399996,Normal,MILD,,false
+New York,NYC,11-04-2026,14.22,13.32,62,1022.0,4.71,overcast clouds,99,United States,Americas,Large,-5,0.9000006,Normal,COLD,,false
+New York,NYC,11-04-2026,13.9,12.94,61,1021.0,4.53,overcast clouds,100,United States,Americas,Large,-5,0.96000004,Normal,COLD,,false
+New York,NYC,11-04-2026,11.42,10.34,66,1023.0,6.07,overcast clouds,100,United States,Americas,Large,-5,1.0799999,Normal,COLD,,false
+New York,NYC,11-04-2026,8.67,4.97,61,1026.0,7.89,broken clouds,81,United States,Americas,Large,-5,3.7000003,Normal,COLD,,false
+New York,NYC,11-04-2026,11.62,9.91,41,1028.0,7.08,clear sky,3,United States,Americas,Large,-5,1.71,Normal,COLD,,false
+New York,NYC,11-04-2026,15.46,13.87,31,1027.0,5.74,clear sky,1,United States,Americas,Large,-5,1.5900002,Normal,MILD,,false
+New York,NYC,11-04-2026,16.41,14.84,28,1027.0,5.12,clear sky,0,United States,Americas,Large,-5,1.5699997,Normal,MILD,,false
+New York,NYC,12-04-2026,14.2,12.54,33,1029.0,4.76,clear sky,0,United States,Americas,Large,-5,1.6599998,Normal,COLD,,false
+New York,NYC,12-04-2026,11.62,9.88,40,1031.0,3.63,clear sky,3,United States,Americas,Large,-5,1.7399998,Normal,COLD,,false
+New York,NYC,12-04-2026,10.51,8.77,44,1032.0,2.03,clear sky,5,United States,Americas,Large,-5,1.7399998,Normal,COLD,,false
+New York,NYC,12-04-2026,9.06,7.47,48,1032.0,2.86,clear sky,3,United States,Americas,Large,-5,1.5900006,Normal,COLD,,false
+New York,NYC,12-04-2026,9.2,7.52,52,1033.0,3.05,clear sky,5,United States,Americas,Large,-5,1.6799998,Normal,COLD,,false
+New York,NYC,12-04-2026,11.5,10.06,52,1033.0,4.41,broken clouds,60,United States,Americas,Large,-5,1.4399996,Normal,COLD,,false
+New York,NYC,12-04-2026,13.32,11.86,44,1031.0,5.02,scattered clouds,49,United States,Americas,Large,-5,1.46,Normal,COLD,,false
+New York,NYC,12-04-2026,14.27,13.03,49,1028.0,5.53,broken clouds,66,United States,Americas,Large,-5,1.2400007,Normal,COLD,,false
+New York,NYC,13-04-2026,13.24,12.0,53,1027.0,6.72,broken clouds,74,United States,Americas,Large,-5,1.2399998,Normal,COLD,,false
+New York,NYC,13-04-2026,12.07,10.9,60,1026.0,5.49,overcast clouds,98,United States,Americas,Large,-5,1.1700001,Normal,COLD,,false
+New York,NYC,13-04-2026,11.94,11.04,71,1024.0,4.35,overcast clouds,99,United States,Americas,Large,-5,0.8999996,High,COLD,,false
+New York,NYC,13-04-2026,12.66,11.91,74,1021.0,5.09,overcast clouds,95,United States,Americas,Large,-5,0.75,High,COLD,,false
+New York,NYC,13-04-2026,13.51,12.93,77,1020.0,5.87,overcast clouds,98,United States,Americas,Large,-5,0.5799999,High,COLD,,false
+New York,NYC,13-04-2026,15.27,14.86,77,1018.0,5.56,light rain,100,United States,Americas,Large,-5,0.4100008,High,MILD,,false
+New York,NYC,13-04-2026,22.66,22.26,49,1016.0,8.26,broken clouds,70,United States,Americas,Large,-5,0.39999962,Normal,MILD,,false
+New York,NYC,13-04-2026,24.22,23.95,48,1014.0,7.23,scattered clouds,47,United States,Americas,Large,-5,0.26999855,Normal,MILD,,false
+Paris,PAR,09-04-2026,14.94,14.03,59,1022.0,1.13,clear sky,0,France,Europe,Large,1,0.90999985,Normal,COLD,,false
+Paris,PAR,09-04-2026,11.74,10.64,64,1021.0,1.34,clear sky,1,France,Europe,Large,1,1.0999994,Normal,COLD,,false
+Paris,PAR,09-04-2026,9.92,9.92,65,1020.0,1.12,few clouds,17,France,Europe,Large,1,0.0,Normal,COLD,,false
+Paris,PAR,09-04-2026,17.54,16.47,43,1021.0,1.34,few clouds,13,France,Europe,Large,1,1.0700016,Normal,MILD,,false
+Paris,PAR,09-04-2026,23.48,22.72,32,1020.0,1.23,scattered clouds,28,France,Europe,Large,1,0.7600002,Normal,MILD,,false
+Paris,PAR,09-04-2026,25.58,25.06,33,1018.0,3.02,overcast clouds,96,France,Europe,Large,1,0.52000046,Normal,HOT,,false
+Paris,PAR,09-04-2026,21.48,21.22,59,1018.0,5.3,light rain,89,France,Europe,Large,1,0.26000023,Normal,MILD,,false
+Paris,PAR,09-04-2026,14.65,13.92,67,1020.0,5.31,light rain,83,France,Europe,Large,1,0.72999954,Normal,COLD,,false
+Paris,PAR,10-04-2026,11.72,10.49,59,1022.0,4.75,overcast clouds,92,France,Europe,Large,1,1.2300005,Normal,COLD,,false
+Paris,PAR,10-04-2026,10.16,8.98,67,1022.0,4.15,overcast clouds,100,France,Europe,Large,1,1.1800003,Normal,COLD,,false
+Paris,PAR,10-04-2026,9.44,7.48,58,1023.0,3.66,overcast clouds,100,France,Europe,Large,1,1.9599996,Normal,COLD,,false
+Paris,PAR,10-04-2026,10.7,9.11,49,1023.0,2.08,overcast clouds,100,France,Europe,Large,1,1.5900002,Normal,COLD,,false
+Paris,PAR,10-04-2026,13.81,12.19,36,1021.0,1.86,overcast clouds,100,France,Europe,Large,1,1.6200008,Normal,COLD,,false
+Paris,PAR,10-04-2026,15.43,13.89,33,1019.0,2.4,overcast clouds,100,France,Europe,Large,1,1.54,Normal,MILD,,false
+Paris,PAR,10-04-2026,14.09,12.7,44,1017.0,3.55,overcast clouds,100,France,Europe,Large,1,1.3900003,Normal,COLD,,false
+Paris,PAR,10-04-2026,12.44,11.12,53,1015.0,3.47,overcast clouds,100,France,Europe,Large,1,1.3199997,Normal,COLD,,false
+Paris,PAR,11-04-2026,11.59,10.35,59,1013.0,3.0,overcast clouds,100,France,Europe,Large,1,1.2399998,Normal,COLD,,false
+Paris,PAR,11-04-2026,11.45,10.45,69,1010.0,2.56,overcast clouds,100,France,Europe,Large,1,1.0,Normal,COLD,,false
+Paris,PAR,11-04-2026,11.51,10.96,86,1008.0,2.88,light rain,100,France,Europe,Large,1,0.5500002,High,COLD,,false
+Paris,PAR,11-04-2026,13.89,13.71,91,1008.0,4.43,light rain,100,France,Europe,Large,1,0.1800003,High,COLD,,false
+Paris,PAR,11-04-2026,13.99,13.59,82,1009.0,4.62,light rain,100,France,Europe,Large,1,0.39999962,High,COLD,,false
+Paris,PAR,11-04-2026,10.04,9.21,81,1012.0,5.57,light rain,100,France,Europe,Large,1,0.8299999,High,COLD,,false
+Paris,PAR,11-04-2026,9.73,7.78,66,1015.0,3.77,light rain,100,France,Europe,Large,1,1.9499993,Normal,COLD,,false
+Paris,PAR,11-04-2026,8.73,7.48,60,1017.0,2.28,overcast clouds,91,France,Europe,Large,1,1.2499995,Normal,COLD,,false
+Paris,PAR,12-04-2026,7.93,6.07,64,1017.0,2.93,overcast clouds,95,France,Europe,Large,1,1.8599997,Normal,COLD,,false
+Paris,PAR,12-04-2026,6.98,4.64,67,1017.0,3.39,overcast clouds,99,France,Europe,Large,1,2.3400002,Normal,COLD,,false
+Paris,PAR,12-04-2026,6.47,3.78,70,1017.0,3.8,overcast clouds,99,France,Europe,Large,1,2.6899998,Normal,COLD,,false
+Paris,PAR,12-04-2026,9.94,7.96,60,1017.0,3.94,overcast clouds,99,France,Europe,Large,1,1.9799995,Normal,COLD,,false
+Paris,PAR,12-04-2026,13.19,11.69,43,1015.0,4.28,overcast clouds,97,France,Europe,Large,1,1.5,Normal,COLD,,false
+Paris,PAR,12-04-2026,13.64,12.29,47,1014.0,3.73,light rain,100,France,Europe,Large,1,1.3500004,Normal,COLD,,false
+Paris,PAR,12-04-2026,11.81,10.67,62,1014.0,2.83,light rain,100,France,Europe,Large,1,1.1400003,Normal,COLD,,false
+Paris,PAR,12-04-2026,10.28,9.32,75,1015.0,2.05,light rain,100,France,Europe,Large,1,0.96000004,High,COLD,,false
+Paris,PAR,13-04-2026,8.99,8.09,80,1015.0,1.91,light rain,100,France,Europe,Large,1,0.8999996,High,COLD,,false
+Paris,PAR,13-04-2026,7.42,6.06,85,1016.0,2.14,broken clouds,70,France,Europe,Large,1,1.3600001,High,COLD,,false
+Paris,PAR,13-04-2026,6.86,5.83,82,1016.0,1.71,scattered clouds,48,France,Europe,Large,1,1.0300002,High,COLD,,false
+Paris,PAR,13-04-2026,10.4,9.04,59,1017.0,2.33,clear sky,0,France,Europe,Large,1,1.3599997,Normal,COLD,,false
+Paris,PAR,13-04-2026,14.3,12.67,34,1016.0,2.53,clear sky,2,France,Europe,Large,1,1.6300001,Normal,COLD,,false
+Paris,PAR,13-04-2026,14.37,12.75,34,1016.0,3.03,overcast clouds,94,France,Europe,Large,1,1.6199999,Normal,COLD,,false
+Paris,PAR,13-04-2026,13.68,12.12,39,1017.0,2.7,overcast clouds,100,France,Europe,Large,1,1.5600004,Normal,COLD,,false
+Paris,PAR,13-04-2026,11.45,10.06,54,1018.0,0.6,overcast clouds,100,France,Europe,Large,1,1.3899994,Normal,COLD,,false
+Tokyo,TOK,09-04-2026,13.07,12.0,60,1022.0,7.98,scattered clouds,31,,,,,1.0699997,Normal,COLD,,false
+Tokyo,TOK,09-04-2026,16.08,15.08,51,1020.0,10.38,broken clouds,79,,,,,1.0,Normal,MILD,,false
+Tokyo,TOK,09-04-2026,18.66,17.7,43,1016.0,11.99,overcast clouds,87,,,,,0.9599991,Normal,MILD,,false
+Tokyo,TOK,09-04-2026,17.22,16.43,55,1016.0,11.48,overcast clouds,100,,,,,0.789999,Normal,MILD,,false
+Tokyo,TOK,09-04-2026,16.53,15.83,61,1015.0,10.85,overcast clouds,100,,,,,0.70000076,Normal,MILD,,false
+Tokyo,TOK,09-04-2026,15.18,14.79,78,1014.0,8.43,light rain,100,,,,,0.39000034,High,MILD,,false
+Tokyo,TOK,09-04-2026,15.37,15.1,82,1011.0,9.49,light rain,100,,,,,0.2699995,High,MILD,,false
+Tokyo,TOK,09-04-2026,16.08,15.96,85,1010.0,10.47,overcast clouds,100,,,,,0.119999886,High,MILD,,false
+Tokyo,TOK,10-04-2026,16.46,16.49,89,1008.0,12.39,light rain,100,,,,,-0.030000687,High,MILD,,false
+Tokyo,TOK,10-04-2026,18.12,18.08,80,1005.0,11.25,light rain,100,,,,,0.040000916,High,MILD,,false
+Tokyo,TOK,10-04-2026,18.18,18.3,86,1001.0,10.92,overcast clouds,100,,,,,-0.11999893,High,MILD,,false
+Tokyo,TOK,10-04-2026,18.52,18.7,87,1000.0,5.14,light rain,100,,,,,-0.1800003,High,MILD,,false
+Tokyo,TOK,10-04-2026,18.2,17.75,64,1001.0,1.76,overcast clouds,100,,,,,0.45000076,Normal,MILD,,false
+Tokyo,TOK,10-04-2026,17.06,16.81,76,999.0,1.4,scattered clouds,32,,,,,0.25,High,MILD,,false
+Tokyo,TOK,10-04-2026,16.37,16.18,81,998.0,1.59,broken clouds,63,,,,,0.19000053,High,MILD,,false
+Tokyo,TOK,10-04-2026,15.99,15.71,79,1000.0,1.29,broken clouds,77,,,,,0.27999973,High,MILD,,false
+Tokyo,TOK,11-04-2026,19.37,19.01,63,1001.0,2.26,scattered clouds,43,,,,,0.3600006,Normal,MILD,,false
+Tokyo,TOK,11-04-2026,22.56,22.12,48,1001.0,0.2,clear sky,0,,,,,0.43999863,Normal,MILD,,false
+Tokyo,TOK,11-04-2026,24.62,24.18,40,1001.0,2.51,clear sky,0,,,,,0.44000053,Normal,MILD,,false
+Tokyo,TOK,11-04-2026,23.59,23.15,44,1003.0,1.2,few clouds,11,,,,,0.44000053,Normal,MILD,,false
+Tokyo,TOK,11-04-2026,19.29,19.05,68,1007.0,5.13,scattered clouds,28,,,,,0.24000168,Normal,MILD,,false
+Tokyo,TOK,11-04-2026,17.24,16.48,56,1009.0,3.45,light rain,87,,,,,0.7600002,Normal,MILD,,false
+Tokyo,TOK,11-04-2026,16.4,15.17,41,1011.0,2.7,light rain,94,,,,,1.2299995,Normal,MILD,,false
+Tokyo,TOK,11-04-2026,15.63,14.48,47,1013.0,1.88,broken clouds,69,,,,,1.1500006,Normal,MILD,,false
+Tokyo,TOK,12-04-2026,17.24,16.27,48,1015.0,2.73,broken clouds,64,,,,,0.9699993,Normal,MILD,,false
+Tokyo,TOK,12-04-2026,20.21,19.41,43,1014.0,3.98,broken clouds,65,,,,,0.79999924,Normal,MILD,,false
+Tokyo,TOK,12-04-2026,21.21,20.59,46,1014.0,6.38,broken clouds,67,,,,,0.61999893,Normal,MILD,,false
+Tokyo,TOK,12-04-2026,19.09,18.57,58,1015.0,7.29,broken clouds,52,,,,,0.52000046,Normal,MILD,,false
+Tokyo,TOK,12-04-2026,17.78,17.47,71,1016.0,8.03,broken clouds,75,,,,,0.31000137,High,MILD,,false
+Tokyo,TOK,12-04-2026,17.22,16.96,75,1016.0,7.23,overcast clouds,100,,,,,0.26000023,High,MILD,,false
+Tokyo,TOK,12-04-2026,16.86,16.59,76,1015.0,6.03,overcast clouds,100,,,,,0.27000046,High,MILD,,false
+Tokyo,TOK,12-04-2026,16.64,16.37,77,1015.0,5.36,overcast clouds,99,,,,,0.26999855,High,MILD,,false
+Tokyo,TOK,13-04-2026,18.74,18.42,67,1015.0,6.33,overcast clouds,100,,,,,0.3199997,Normal,MILD,,false
+Tokyo,TOK,13-04-2026,19.93,19.49,58,1013.0,5.38,overcast clouds,100,,,,,0.44000053,Normal,MILD,,false
+Tokyo,TOK,13-04-2026,19.25,18.88,63,1011.0,4.9,overcast clouds,100,,,,,0.37000084,Normal,MILD,,false
+Tokyo,TOK,13-04-2026,18.73,18.43,68,1012.0,3.8,overcast clouds,94,,,,,0.29999924,Normal,MILD,,false
+Tokyo,TOK,13-04-2026,17.94,17.7,73,1012.0,1.76,overcast clouds,97,,,,,0.23999977,High,MILD,,false
+Tokyo,TOK,13-04-2026,17.43,17.16,74,1012.0,2.16,overcast clouds,100,,,,,0.27000046,High,MILD,,false
+Tokyo,TOK,13-04-2026,17.81,17.47,70,1012.0,1.33,overcast clouds,100,,,,,0.34000015,Normal,MILD,,false
+Tokyo,TOK,13-04-2026,14.47,13.43,56,1015.0,8.43,overcast clouds,100,,,,,1.04,Normal,COLD,,false

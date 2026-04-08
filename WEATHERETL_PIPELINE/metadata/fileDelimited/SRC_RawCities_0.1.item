@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_6MeSMTNmEfGBK6CzL1gMhQ" name="SRC_RawCities" dataPackage="_6MeSMjNmEfGBK6CzL1gMhQ" Server="Localhost 127.0.0.1" FilePath="D:/Talend/WeatherETL_Pipeline/temp/raw_cities_b.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_6MeSMjNmEfGBK6CzL1gMhQ" name="default" dataManager="_6MeSMTNmEfGBK6CzL1gMhQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_6MeSMzNmEfGBK6CzL1gMhQ" id="_qs93QDNmEfGBK6CzL1gMhQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6MeSNDNmEfGBK6CzL1gMhQ" label="city_code" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6MeSNTNmEfGBK6CzL1gMhQ" label="city_name" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6MeSNjNmEfGBK6CzL1gMhQ" label="country" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6MeSNzNmEfGBK6CzL1gMhQ" label="region" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6MeSODNmEfGBK6CzL1gMhQ" label="population_tier" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6MeSOTNmEfGBK6CzL1gMhQ" label="utc_offset_hours" length="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

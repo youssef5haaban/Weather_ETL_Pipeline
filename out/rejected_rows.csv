@@ -1,0 +1,1 @@
+city_name,city_code,forecast_dt,temp_celsius,feels_like_celsius,humidity_pct,pressure_hpa,wind_speed_ms,weather_description,cloud_cover_pct,country,region,population_tier,utc_offset_hours,feels_like_delta,humidity_category,heat_index,data_quality_flag,is_rejected,errorMessage

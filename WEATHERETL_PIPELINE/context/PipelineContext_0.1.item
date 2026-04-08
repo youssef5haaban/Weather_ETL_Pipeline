@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_rV8ioDNBEfGBK6CzL1gMhQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_rV8ioTNBEfGBK6CzL1gMhQ" comment="" name="api_key" prompt="api_key?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rV8iojNBEfGBK6CzL1gMhQ" comment="" name="api_base_url" prompt="api_base_url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rV8iozNBEfGBK6CzL1gMhQ" comment="" name="cities" prompt="cities?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rV8ipDNBEfGBK6CzL1gMhQ" comment="" name="csv_path" prompt="csv_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rV8ipTNBEfGBK6CzL1gMhQ" comment="" name="staging_a_path" prompt="staging_a_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rV8ipjNBEfGBK6CzL1gMhQ" comment="" name="staging_b_path" prompt="staging_b_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rV8ipzNBEfGBK6CzL1gMhQ" comment="" name="clean_output_path" prompt="clean_output_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rV8iqDNBEfGBK6CzL1gMhQ" comment="" name="reject_path" prompt="reject_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rV8iqTNBEfGBK6CzL1gMhQ" comment="" name="summary_path" prompt="summary_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_rV8iqjNBEfGBK6CzL1gMhQ" comment="" name="log_path" prompt="log_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_3hBZkDNbEfGBK6CzL1gMhQ" comment="" name="raw_a_path" prompt="raw_a_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_3hBZkTNbEfGBK6CzL1gMhQ" comment="" name="raw_b_path" prompt="raw_b_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

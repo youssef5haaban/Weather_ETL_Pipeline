@@ -1,0 +1,44 @@
+{
+  "itemId" : "_qhVkUDONEfGBK6CzL1gMhQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_qnuxwDNBEfGBK6CzL1gMhQ",
+    "parameterList" : [ {
+      "id" : "_rV8ioTNBEfGBK6CzL1gMhQ",
+      "name" : "api_key"
+    }, {
+      "id" : "_rV8iojNBEfGBK6CzL1gMhQ",
+      "name" : "api_base_url"
+    }, {
+      "id" : "_rV8iozNBEfGBK6CzL1gMhQ",
+      "name" : "cities"
+    }, {
+      "id" : "_rV8ipDNBEfGBK6CzL1gMhQ",
+      "name" : "csv_path"
+    }, {
+      "id" : "_rV8ipTNBEfGBK6CzL1gMhQ",
+      "name" : "staging_a_path"
+    }, {
+      "id" : "_rV8ipjNBEfGBK6CzL1gMhQ",
+      "name" : "staging_b_path"
+    }, {
+      "id" : "_rV8ipzNBEfGBK6CzL1gMhQ",
+      "name" : "clean_output_path"
+    }, {
+      "id" : "_rV8iqDNBEfGBK6CzL1gMhQ",
+      "name" : "reject_path"
+    }, {
+      "id" : "_rV8iqTNBEfGBK6CzL1gMhQ",
+      "name" : "summary_path"
+    }, {
+      "id" : "_rV8iqjNBEfGBK6CzL1gMhQ",
+      "name" : "log_path"
+    }, {
+      "id" : "_3hBZkDNbEfGBK6CzL1gMhQ",
+      "name" : "raw_a_path"
+    }, {
+      "id" : "_3hBZkTNbEfGBK6CzL1gMhQ",
+      "name" : "raw_b_path"
+    } ]
+  } ]
+}
