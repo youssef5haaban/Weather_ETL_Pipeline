@@ -53,8 +53,8 @@ Live weather observations fetched at runtime for 8 cities: Cairo, London, Paris,
 | Field | Type | Description |
 |---|---|---|
 | dt | Integer | Unix timestamp of observation |
-| temp | Float | Temperature in Kelvin |
-| feels_like | Float | Feels-like temperature in Kelvin |
+| temp | Float | Temperature in Celsius |
+| feels_like | Float | Feels-like temperature in Celsius |
 | humidity | Integer | Humidity percentage |
 | pressure | Integer | Atmospheric pressure (hPa) |
 | speed | Float | Wind speed (m/s) |
@@ -93,8 +93,8 @@ Both sources are normalized independently before the join.
 | Raw field | Staged field | Transformation |
 |---|---|---|
 | dt | forecast_dt | Cast Integer → Date |
-| temp | temp_celsius | Kelvin → Celsius (temp - 273.15) |
-| feels_like | feels_like_celsius | Kelvin → Celsius (feels_like - 273.15) |
+| temp | temp_celsius | API returns Celsius directly; cast to Float |
+| feels_like | feels_like_celsius | API returns Celsius directly; cast to Float |
 | humidity | humidity_pct | Renamed, cast to Integer |
 | pressure | pressure_hpa | Renamed, cast to Integer |
 | speed | wind_speed_ms | Renamed, cast to Float |
@@ -113,8 +113,8 @@ Two new fields are computed in the enrichment tMap after the join:
 
 | Field | Expression | Description |
 |---|---|---|
-| temp_celsius | `temp - 273.15` | Converts Kelvin to Celsius for readability |
-| feels_like_celsius | `feels_like - 273.15` | Converts feels-like temperature from Kelvin to Celsius |
+| temp_celsius | direct from API | Temperature already provided in Celsius; renamed for clarity |
+| feels_like_celsius | direct from API | Feels-like temperature already in Celsius; renamed for clarity |
 
 ---
 
