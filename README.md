@@ -87,6 +87,20 @@ Final outputs:
   logs/error_log.csv        — tLogCatcher runtime errors (all jobs, append mode)
 ```
 
+
+## Architecture Diagrams
+
+### Master Orchestration
+![Job 00 Master](./diagrams/Job_00_Master_0.1.png)
+
+### Extract Job
+![Job 01 Extract](./diagrams/Job_01_Extract_0.1.png)
+
+### Transform & Load Job
+![Job 02 Transform and Load](./diagrams/Job_02_Transform_and_Load_0.1.png)
+
+
+
 ### Pipeline stages
 
 | Stage | Job | Subjob | What happens |
@@ -362,5 +376,3 @@ WeatherETL_Pipeline/
 │   └── error_log.csv
 └── README.md
 ```
-
-> **Note:** `WEATHERETL_PIPELINE/context/Default.properties` contains your API key. Add it to `.gitignore` and share credentials separately.
